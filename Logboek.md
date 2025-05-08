@@ -18,8 +18,7 @@ Het output signaal van +-2.5V valt binnen specificatie van [Sentron-manuaali-eng
 Met LTspice is deze schakeling gemaakt
 ![image](https://github.com/user-attachments/assets/996f4bac-37c8-4de5-88f3-099f454fcc90)
 
-<image src="https://github.com/user-attachments/assets/996f4bac-37c8-4de5-88f3-099f454fcc90)" width="200"/>
-<img src="https://github.com/user-attachments/assets/996f4bac-37c8-4de5-88f3-099f454fcc90" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/996f4bac-37c8-4de5-88f3-099f454fcc90" alt="Alt Text" width="800" height="400">
 
 De simulatie van LTspice:
 
