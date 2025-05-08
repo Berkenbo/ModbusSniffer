@@ -10,7 +10,7 @@ Input (rs232): 0V naar +5V
 
 Output (rs485): +2.5V en -2.5V
 
-Het output signaal van +-2.5V valt binnen specificatie van [Sentron-manuaali-englanti.pdf](https://github.com/user-attachments/files/20099430/Sentron-manuaali-englanti.pdf). Het uiteindelijke doel is om met een laptop of ESP32 signalen naar de Siemens SENTRON PAC3100 gestuurd worden.
+Het output signaal van +-2.5V valt binnen specificatie van [Sentron-manuaali-englanti.pdf](https://github.com/user-attachments/files/20099430/Sentron-manuaali-englanti.pdf). Het uiteindelijke doel is om met een laptop of ESP32 signalen naar de Siemens SENTRON PAC3100 te sturen.
 
 
 ## Schakeling:
