@@ -23,7 +23,7 @@ De simulatie van LTspice:
 
 ## Berekening:
 
-![image](https://github.com/user-attachments/assets/bc552dc0-dd7d-4216-be3c-e28901c9436e)
+<img src="https://github.com/user-attachments/assets/bc552dc0-dd7d-4216-be3c-e28901c9436" alt="Alt Text" width="500" height="1000">
 
 
 ## Opstelling:
