@@ -22,13 +22,17 @@ Met LTspice is deze schakeling gemaakt
 De simulatie van LTspice:
 
 
+## Berekening:
+
+![image](https://github.com/user-attachments/assets/bc552dc0-dd7d-4216-be3c-e28901c9436e)
+
 
 ## Opstelling:
 
-![WhatsApp Image 2025-05-08 at 11 05 56_0217f210](https://github.com/user-attachments/assets/813e3f6f-0efc-4f96-ab2c-16a1fa56aeb1)
+![image](https://github.com/user-attachments/assets/813e3f6f-0efc-4f96-ab2c-16a1fa56aeb1)
 Zoals zichtbaar hebben we om de juiste weerstand te krijgen veel kleine weerstanden gebruikt om de juiste grotere weerstanden te maken. In de toekomst kan hier een potmeter voor gebruikt worden. 
 
-![TEK0001](https://github.com/user-attachments/assets/14d0f0a6-c88a-45c6-8914-9b8ca9835402)
+![image](https://github.com/user-attachments/assets/14d0f0a6-c88a-45c6-8914-9b8ca9835402)
 
 
 
