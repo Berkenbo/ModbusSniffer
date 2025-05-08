@@ -25,10 +25,7 @@ De simulatie van LTspice:
 
 <img src="https://github.com/user-attachments/assets/0ed6c466-29dc-419e-89e1-f9875c57d170" alt="Alt Text" width="333" height="500">
 
-
-
 ## Opstelling:
-
 
 <img src="https://github.com/user-attachments/assets/813e3f6f-0efc-4f96-ab2c-16a1fa56aeb1" alt="Alt Text" width="600" height="400">
 
@@ -36,6 +33,7 @@ Zoals zichtbaar hebben we om de juiste weerstand te krijgen veel kleine weerstan
 
 ## Resultaat:
 ![image](https://github.com/user-attachments/assets/14d0f0a6-c88a-45c6-8914-9b8ca9835402)
+
 De schakeling werkt effectief, de signalen zijn niet 100 procent exact gespiegeld, maar deze zijn voldoende helder 
 
 
