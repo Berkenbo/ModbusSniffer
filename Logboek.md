@@ -1,6 +1,6 @@
 # RS232 naar RS485
 
-**07/05/2025**
+**Datum: 07/05/2025**
 
 Test schakeling om van rs232 een rs485 signaal te maken.
 
@@ -31,15 +31,17 @@ De simulatie van LTspice:
 
 
 <img src="https://github.com/user-attachments/assets/813e3f6f-0efc-4f96-ab2c-16a1fa56aeb1" alt="Alt Text" width="600" height="400">
+
 Zoals zichtbaar hebben we om de juiste weerstand te krijgen veel kleine weerstanden gebruikt om de juiste grotere weerstanden te maken. In de toekomst kan hier een potmeter voor gebruikt worden. 
 
+## Resultaat:
 ![image](https://github.com/user-attachments/assets/14d0f0a6-c88a-45c6-8914-9b8ca9835402)
-
+De schakeling werkt effectief, de signalen zijn niet 100 procent exact gespiegeld, maar deze zijn voldoende helder 
 
 
 # Vergelijking onze RS232 naar RS485 schakeling met een Pico-2CH-RS485
 
-**08/05/2025**
+**Datum: 08/05/2025**
 
 
 
