@@ -54,5 +54,20 @@ De schakeling werkt effectief, de signalen zijn niet 100 procent exact gespiegel
 
 **Datum: 08/05/2025**
 
+Na gesprek met Bart Snijder, heeft hij aangeraad om onze bevindingen met onze rs232 naar rs485 schakeling nog naast een "of the shelf" adapter te houden.
+Hiervoor hebben we de Pico-2CH-RS485 gebruikt. Dit bord is bedoeld voor de Raspberry Pi Pico maar bij hebben hiervoor het PL2303 USB UART Board gebruikt samen met de opensource software [PuTTY](https://www.putty.org/). 
+
+## Opstelling:
+
+![image](https://github.com/user-attachments/assets/62d8e469-b8b4-4405-9028-a335943edaca)
+
+## Resultaat: 
+
+![F0001TEK](https://github.com/user-attachments/assets/7d224bac-cbcc-464c-9805-14f940556831)
+
+Het lijkt er op dat de output van de Pico-2CH-RS485 een minder strak signaal geeft dan deze voor onze schakeling
+
+
+
 
 
