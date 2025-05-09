@@ -2,7 +2,7 @@
 
 **Datum: 23/04/2025**
 
-Met behulp van software van “modbus tools” hebben we een ASCII modbus RS232 signaal verstuurd met computer1(master) en ontvangen met computer2 (slave). Hiervoor worden twee PL2303 usb uart borden gebruikt die de twee computer verbinden.
+Met behulp van software van “modbus tools” hebben we een ASCII modbus RS232 signaal verstuurd met computer1(Client) en ontvangen met computer2 (Server). Hiervoor worden twee PL2303 usb uart borden gebruikt die de twee computer verbinden.
 
 Dit beeld is genomen met de Siglent SDS 1202X-E oscilloscoop:
 
