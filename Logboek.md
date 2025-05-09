@@ -1,3 +1,16 @@
+# Modbus berichten uitlezen met oscilloscoop
+
+**Datum: 23/04/2025**
+
+Met behulp van software van “modbus tools” hebben we een ASCII modbus RS232 signaal verstuurd met computer1(master) en ontvangen met computer2 (slave). Hiervoor worden twee PL2303 usb uart borden gebruikt die de twee computer verbinden.
+
+Dit beeld is genomen met de Siglent SDS 1202X-E oscilloscoop:
+
+<img src="https://github.com/user-attachments/assets/45bd326b-ee0c-4ab3-b436-e611f03695e5" alt="Alt Text" width="800" height="500">
+
+Hier is automatic polling zichtbaar, we gebruiken de software modbus poll, het idee is dat er elke seconde registers van de slave geupdate worden. Daarom gaat er eerst een signaal vanaf te TX lijn en een antwoord vie de RX lijn.
+
+
 # RS232 naar RS485
 
 **Datum: 07/05/2025**
