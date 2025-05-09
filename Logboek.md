@@ -66,7 +66,11 @@ Hiervoor hebben we de Pico-2CH-RS485 gebruikt. Dit bord is bedoeld voor de Raspb
 
 <img src="https://github.com/user-attachments/assets/7d224bac-cbcc-464c-9805-14f940556831" width="600" height="400">
 
-Het lijkt er op dat de output van de Pico-2CH-RS485 een minder strak signaal geeft dan deze voor onze [schakeling](https://github.com/Berkenbo/ModbusSniffer/blob/main/Logboek.md#rs232-naar-rs485)
+Het lijkt er op dat de output van de Pico-2CH-RS485 een minder strak signaal geeft dan deze van onze [schakeling](https://github.com/Berkenbo/ModbusSniffer/blob/main/Logboek.md#rs232-naar-rs485) 
+
+# Met de ESP32 een RS485 modbus signaal naar de Siemens Sentron PAC3100 multimeter sturen.
+
+**Datum 09/05/2025**
 
 
 
