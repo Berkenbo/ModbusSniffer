@@ -45,8 +45,9 @@ De simulatie van LTspice:
 Zoals zichtbaar hebben we om de juiste weerstand te krijgen veel kleine weerstanden gebruikt om de juiste grotere weerstanden te maken. In de toekomst kan hier een potmeter voor gebruikt worden. 
 
 ## Resultaat:
-![image](https://github.com/user-attachments/assets/14d0f0a6-c88a-45c6-8914-9b8ca9835402)
 
+
+<img src="https://github.com/user-attachments/assets/14d0f0a6-c88a-45c6-8914-9b8ca9835402" width="600" height="400">
 De schakeling werkt effectief, de signalen zijn niet 100 procent exact gespiegeld, maar deze zijn voldoende helder 
 
 
@@ -59,13 +60,13 @@ Hiervoor hebben we de Pico-2CH-RS485 gebruikt. Dit bord is bedoeld voor de Raspb
 
 ## Opstelling:
 
-![image](https://github.com/user-attachments/assets/62d8e469-b8b4-4405-9028-a335943edaca)
+<img src="https://github.com/user-attachments/assets/62d8e469-b8b4-4405-9028-a335943edaca" width="600" height="400">
 
 ## Resultaat: 
 
-![F0001TEK](https://github.com/user-attachments/assets/7d224bac-cbcc-464c-9805-14f940556831)
+<img src="https://github.com/user-attachments/assets/7d224bac-cbcc-464c-9805-14f940556831" width="600" height="400">
 
-Het lijkt er op dat de output van de Pico-2CH-RS485 een minder strak signaal geeft dan deze voor onze schakeling
+Het lijkt er op dat de output van de Pico-2CH-RS485 een minder strak signaal geeft dan deze voor onze [schakeling](https://github.com/Berkenbo/ModbusSniffer/blob/main/Logboek.md#rs232-naar-rs485)
 
 
 
